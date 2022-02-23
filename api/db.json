@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "second stream",
+      "description": "was made by me",
+      "userId": "111020576833109694717",
+      "id": 2
+    },
+    {
+      "title": "second stream",
+      "description": "was made by me",
+      "userId": "111020576833109694717",
+      "id": 3
+    }
+  ]
+}
